@@ -5,5 +5,5 @@
 - Html básico
 - Css básico
 
-### Principal foco foi compreender os conceitos de flexbox e resposividade. 
+### Principal foco foi compreender os conceitos de flexbox e responsividade. 
 
